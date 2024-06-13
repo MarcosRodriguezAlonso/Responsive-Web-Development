@@ -2,6 +2,10 @@
 
 Ejercicios del curso "Desarrollo Web Responsive con HTML y CSS".
 
+Es posible que durante el curso utilice paquetes npm y otros recursos no requeridos por las unidades, así como implementaciones tampoco requeridas, con el fin de mantener las buenas prácticas esté haciendo el curso que sea en cada momento.
+
+Este proyecto se centra en la práctica y perfeccionamiento de mis habilidades en desarrollo web. A lo largo del código, se encontrarán comentarios que explican decisiones de diseño y técnicas utilizadas, con el objetivo de facilitar mi aprendizaje y comprensión.
+
 # Convención de Commits
 
 Todos los commits posteriores al commit inicial se realizarán desde una rama llamada "feature/unit-X". Cada unidad del curso será abordada en su propia rama para mantener una organización clara de los ejercicios realizados

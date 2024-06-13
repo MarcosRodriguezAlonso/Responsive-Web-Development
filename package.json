@@ -1,0 +1,12 @@
+{
+  "name": "introduccion-al-desarrollo-web-responsive-con-html-y-css",
+  "version": "1.0.0",
+  "description": "Ejercicios del curso \"Desarrollo Web Responsive con HTML y CSS\".",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
